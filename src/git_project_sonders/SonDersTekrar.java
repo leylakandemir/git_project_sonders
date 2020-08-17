@@ -1,9 +1,10 @@
 package git_project_sonders;
 
-public class OrtakCalisma {
+public class SonDersTekrar {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("21:55-Master branch");
 
 	}
 
